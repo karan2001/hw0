@@ -1,5 +1,4 @@
-# hw0
-A simple Java project
+# A simple Java project
 
 Here you are writing a basic class that wraps some common Java containers (map, set, and list).
 
